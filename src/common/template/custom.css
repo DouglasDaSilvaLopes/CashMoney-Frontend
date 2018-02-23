@@ -1,0 +1,16 @@
+.btn-Custom{
+    position: absolute;
+    right: 0;
+}
+
+button{
+    margin-left: 3px;
+}
+
+.table-action{
+    width: 150px;
+}
+
+.list-credits-debts{
+    width: 29%;
+}
